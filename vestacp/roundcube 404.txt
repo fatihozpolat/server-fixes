@@ -1,0 +1,8 @@
+ls /usr/share/roundcubemail/skins/
+
+// elastic
+
+nano /etc/roundcubemail/config.inc.php
+
+// change 
+$config['skin'] = 'elastic';
