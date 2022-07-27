@@ -1,0 +1,2 @@
+wget https://raw.githubusercontent.com/fatihozpolat/server-fixes/main/vestacp/vestacp_exim-4.93-3.el7.x86_64.rpm -O exim-4.93-3.el7.x86_64.rpm
+rpm -Uvh --oldpackage exim-4.93-3.el7.x86_64.rpm
